@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "Distance.ino",
+    "port": "COM21"
+}
